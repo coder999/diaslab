@@ -1,5 +1,5 @@
 
-# coder999's Website
+# The Dias Lab
 
 Visit **[diaslab.org](https://diaslab.org)** 🚀
 
