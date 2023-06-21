@@ -21,7 +21,7 @@ The Dias Lab believes that the synergistic use of both approaches will shed ligh
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Glial dysregulation in the human brain in fragile X-associated tremor/ataxia syndrome" style="rich" %}
 
 {% include section.html %}
 
