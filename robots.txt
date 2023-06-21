@@ -1,1 +1,1 @@
-Sitemap: /diaslab/sitemap.xml
+Sitemap: /sitemap.xml
