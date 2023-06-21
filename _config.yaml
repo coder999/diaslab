@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: coder999
+title: The Dias Lab
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
@@ -7,12 +7,9 @@ footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@coder999.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: coder999
-  twitter: coder999
-  youtube: coder999
+  email: Caroline.Dias@childrenscolorado.org
+  orcid: 0000-0003-1315-6007
+  twitter: CarolineDias001
 
 ### jekyll settings
 
