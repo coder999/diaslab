@@ -1,7 +1,7 @@
 ---
 ---
 
-# coder999's Website
+# The Dias Lab
 
 An engaging 1-3 sentence description of your lab.
 
