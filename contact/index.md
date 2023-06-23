@@ -9,12 +9,7 @@ nav:
 
 The Dias Lab welcomes applications from individuals at all levels who have an interest in studying the genetics of neurodevelopment.
 
-{%
-  include button.html
-  type="email"
-  text="Caroline.Dias@childrenscolorado.org"
-  link="mailto:Caroline.Dias@childrenscolorado.org"
-%}
+
 
 {% include section.html %}
 
