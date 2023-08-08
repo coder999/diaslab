@@ -2,7 +2,7 @@
 name: Anna Dischler
 image: images/headshotAD.png
 role: Lab Manager
-
+description: Lab Manager
 links:
   home-page: https://diaslab.org
   
