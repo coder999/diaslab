@@ -1,6 +1,6 @@
 ---
 name: Anna Dischler
-image: images/caroline.png
+image: 
 role: Lab Manager
 
 links:
