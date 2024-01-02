@@ -173,16 +173,15 @@
   file: sources.yaml
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13100-021-00256-w/MediaObjects/13100_2021_256_Fig1_HTML.png?as=webp
 - id: doi:10.1002/ajmg.a.62254
-  title: "De novo variants in\n            <scp>\n              <i>TCF7L2</i>\n  \
-    \          </scp>\n            are associated with a syndromic neurodevelopmental\
-    \ disorder"
+  title: De novo variants in <scp><i>TCF7L2</i></scp> are associated with a syndromic
+    neurodevelopmental disorder
   authors:
   - Caroline Dias
   - Rolph Pfundt
   - Tjitske Kleefstra
   - "Janneke Shuurs\u2010Hoeijmakers"
   - Elles M. J. Boon
-  - Johanna M. Hagen
+  - Johanna M. van Hagen
   - Petra Zwijnenburg
   - Marjan M. Weiss
   - Boris Keren
