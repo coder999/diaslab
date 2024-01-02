@@ -19,7 +19,7 @@ We also study genetically defined disorders, such as Fragile X syndrome and Frag
 The brain is an amazingly complex and heterogeneous tissue and is not immediately accessible for study in the human condition. We are interested in studying the molecular perturbations associated with neurodevelopmental and neurodegenerative disorders in different cellular subtypes in the human brain specifically. In order to do this, we are applying single cell genomic approaches on post-mortem human brain to identify cell-type and region-specific molecular changes related to brain function.
 
 ### Collaborations:
-Collaborative efforts are the only path forward to conduct truly transformative science. We collaborate with laboratories within and outside of our department and university. Within our laboratory, colloborative projects are the norm, and not the exception. We are always looking for new opportunities to develop creative lines of investigation.
+Collaborative efforts are the only path forward to conduct truly transformative science. We collaborate with laboratories within and outside of our department and university. Within our laboratory, collaborative projects are the norm, and not the exception. We are always looking for new opportunities to develop creative lines of investigation.
 
 
 {% include section.html %}
