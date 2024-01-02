@@ -14,7 +14,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-#insert text here about team
+
 
 {% include section.html %}
 
