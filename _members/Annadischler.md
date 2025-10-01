@@ -1,5 +1,5 @@
 ---
-name: Anna Dischler
+name: Anna 
 image: images/headshotAD.png
 role: Lab Manager
 description: Lab Manager
