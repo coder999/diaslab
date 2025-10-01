@@ -270,23 +270,6 @@
   - Rachel Nguyen
   - Elizabeth E. Guerrero
   - Caroline Dias
-  - Catalina Betancur
-  - Edwin H. Cook
-  - Louise Gallagher
-  - Michael Gill
-  - James S. Sutcliffe
-  - Audrey Thurm
-  - Michael E. Zwick
-  - "Anders D. B\xF8rglum"
-  - Matthew W. State
-  - A. Ercument Cicek
-  - Michael E. Talkowski
-  - David J. Cutler
-  - Bernie Devlin
-  - Stephan J. Sanders
-  - Kathryn Roeder
-  - Mark J. Daly
-  - Joseph D. Buxbaum
   - Branko Aleksic
   - Richard Anney
   - Mafalda Barbosa
@@ -436,6 +419,23 @@
   - Wesley K. Thompson
   - Patrick Turley
   - Raymond K. Walters
+  - Catalina Betancur
+  - Edwin H. Cook
+  - Louise Gallagher
+  - Michael Gill
+  - James S. Sutcliffe
+  - Audrey Thurm
+  - Michael E. Zwick
+  - "Anders D. B\xF8rglum"
+  - Matthew W. State
+  - A. Ercument Cicek
+  - Michael E. Talkowski
+  - David J. Cutler
+  - Bernie Devlin
+  - Stephan J. Sanders
+  - Kathryn Roeder
+  - Mark J. Daly
+  - Joseph D. Buxbaum
   publisher: Cell
   date: '2020-02-01'
   link: https://doi.org/gg2bpc
@@ -782,7 +782,7 @@
   - Eric J Nestler
   - Li Shen
   publisher: Genome Biology
-  date: '2014-01-01'
+  date: '2014-04-22'
   link: https://doi.org/f59zmg
   orcid: 0000-0003-1315-6007
   plugin: sources.py
